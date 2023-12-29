@@ -1,0 +1,16 @@
+/* Tablet */
+
+@media screen and (max-width:992px) {
+    .inner_banner .banner_content,
+    .inner_banner .banner_img{
+        flex-basis: 100%;
+}
+/* nav{
+    display: none;
+}
+.menubar{
+    display: inline-block;
+    color: #fff;
+} */
+}
+ 
